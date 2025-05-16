@@ -1,4 +1,4 @@
-# Project calc
+# PROJECT CALC
 ## Description
 Proyecto calculadora basica suma, resta,multiplica,divide.
 ### Technologies
@@ -6,6 +6,7 @@ Proyecto calculadora basica suma, resta,multiplica,divide.
 - HTML
 - JAVA SCRIPT
 ### Autores
-- Nieves Cruz Gonzalez
+- Thelpnieves
 - Thelp SAS
 
+ 
