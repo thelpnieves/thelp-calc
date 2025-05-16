@@ -6,5 +6,6 @@ Proyecto calculadora basica suma, resta,multiplica,divide.
 - HTML
 - JAVA SCRIPT
 ### Autores
-- Nieves Cruz
+- Nieves Cruz Gonzalez
 - Thelp SAS
+
